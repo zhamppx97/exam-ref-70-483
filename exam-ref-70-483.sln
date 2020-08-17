@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-3 Using the Param
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-4 Stopping a thread", "Listing 1-4 Stopping a thread\Listing 1-4 Stopping a thread.csproj", "{7E9F8D92-7B2C-471D-85C8-700DE53B56A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-5 Using the ThreadStaticAttribute", "Listing 1-5 Using the ThreadStaticAttribute\Listing 1-5 Using the ThreadStaticAttribute.csproj", "{19208AF9-4BDC-498D-B910-B6338420CC52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7E9F8D92-7B2C-471D-85C8-700DE53B56A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E9F8D92-7B2C-471D-85C8-700DE53B56A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E9F8D92-7B2C-471D-85C8-700DE53B56A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19208AF9-4BDC-498D-B910-B6338420CC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19208AF9-4BDC-498D-B910-B6338420CC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19208AF9-4BDC-498D-B910-B6338420CC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19208AF9-4BDC-498D-B910-B6338420CC52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
