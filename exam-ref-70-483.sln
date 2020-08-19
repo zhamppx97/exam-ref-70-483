@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-4 Stopping a thre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-5 Using the ThreadStaticAttribute", "Listing 1-5 Using the ThreadStaticAttribute\Listing 1-5 Using the ThreadStaticAttribute.csproj", "{19208AF9-4BDC-498D-B910-B6338420CC52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-6 Using ThreadLocal T", "Listing 1-6 Using ThreadLocal T\Listing 1-6 Using ThreadLocal T.csproj", "{8984DE30-A6CF-46C0-93DF-7E38977E44B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-6 Using ThreadLocal T", "Listing 1-6 Using ThreadLocal T\Listing 1-6 Using ThreadLocal T.csproj", "{8984DE30-A6CF-46C0-93DF-7E38977E44B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-7 Queuing some work to the thread pool", "Listing 1-7 Queuing some work to the thread pool\Listing 1-7 Queuing some work to the thread pool.csproj", "{1FCBAD1E-D671-4E76-9AB5-7D263D5BC6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-7 Queuing some work to the thread pool", "Listing 1-7 Queuing some work to the thread pool\Listing 1-7 Queuing some work to the thread pool.csproj", "{1FCBAD1E-D671-4E76-9AB5-7D263D5BC6B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-8 Starting a new Task", "Listing 1-8 Starting a new Task\Listing 1-8 Starting a new Task.csproj", "{D33CE4FB-2A2E-4867-8679-A65B86648533}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-8 Starting a new Task", "Listing 1-8 Starting a new Task\Listing 1-8 Starting a new Task.csproj", "{D33CE4FB-2A2E-4867-8679-A65B86648533}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-9 Using a Task that returns a value", "Listing 1-9 Using a Task that returns a value\Listing 1-9 Using a Task that returns a value.csproj", "{A8A3EAB9-3DC9-4494-A8B5-656EF2EFF5DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-9 Using a Task that returns a value", "Listing 1-9 Using a Task that returns a value\Listing 1-9 Using a Task that returns a value.csproj", "{A8A3EAB9-3DC9-4494-A8B5-656EF2EFF5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-10 Adding a continuation", "Listing 1-10 Adding a continuation\Listing 1-10 Adding a continuation.csproj", "{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A8A3EAB9-3DC9-4494-A8B5-656EF2EFF5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A3EAB9-3DC9-4494-A8B5-656EF2EFF5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A3EAB9-3DC9-4494-A8B5-656EF2EFF5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
