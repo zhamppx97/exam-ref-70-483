@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-10 Adding a conti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-11 Scheduling different continuation tasks", "Listing 1-11 Scheduling different continuation tasks\Listing 1-11 Scheduling different continuation tasks.csproj", "{1D39AD65-1415-46FD-9E5A-C91ACC024162}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-12 Attaching child tasks to a parent task", "Listing 1-12 Attaching child tasks to a parent task\Listing 1-12 Attaching child tasks to a parent task.csproj", "{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1D39AD65-1415-46FD-9E5A-C91ACC024162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D39AD65-1415-46FD-9E5A-C91ACC024162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D39AD65-1415-46FD-9E5A-C91ACC024162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
