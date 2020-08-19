@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-11 Scheduling dif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-12 Attaching child tasks to a parent task", "Listing 1-12 Attaching child tasks to a parent task\Listing 1-12 Attaching child tasks to a parent task.csproj", "{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-13 Using a TaskFactory", "Listing 1-13 Using a TaskFactory\Listing 1-13 Using a TaskFactory.csproj", "{24C48980-3378-470A-83D3-4749DA4ECB1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
