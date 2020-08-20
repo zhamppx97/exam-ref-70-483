@@ -21,13 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-8 Starting a new 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-9 Using a Task that returns a value", "Listing 1-9 Using a Task that returns a value\Listing 1-9 Using a Task that returns a value.csproj", "{A8A3EAB9-3DC9-4494-A8B5-656EF2EFF5DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-10 Adding a continuation", "Listing 1-10 Adding a continuation\Listing 1-10 Adding a continuation.csproj", "{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-10 Adding a continuation", "Listing 1-10 Adding a continuation\Listing 1-10 Adding a continuation.csproj", "{ACF5B2D9-2519-4499-8201-B0C0EA422C8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-11 Scheduling different continuation tasks", "Listing 1-11 Scheduling different continuation tasks\Listing 1-11 Scheduling different continuation tasks.csproj", "{1D39AD65-1415-46FD-9E5A-C91ACC024162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-11 Scheduling different continuation tasks", "Listing 1-11 Scheduling different continuation tasks\Listing 1-11 Scheduling different continuation tasks.csproj", "{1D39AD65-1415-46FD-9E5A-C91ACC024162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-12 Attaching child tasks to a parent task", "Listing 1-12 Attaching child tasks to a parent task\Listing 1-12 Attaching child tasks to a parent task.csproj", "{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-12 Attaching child tasks to a parent task", "Listing 1-12 Attaching child tasks to a parent task\Listing 1-12 Attaching child tasks to a parent task.csproj", "{DCB2C6D4-C4B6-4B7B-A14F-8B722E05968C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-13 Using a TaskFactory", "Listing 1-13 Using a TaskFactory\Listing 1-13 Using a TaskFactory.csproj", "{24C48980-3378-470A-83D3-4749DA4ECB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-13 Using a TaskFactory", "Listing 1-13 Using a TaskFactory\Listing 1-13 Using a TaskFactory.csproj", "{24C48980-3378-470A-83D3-4749DA4ECB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-14 Using Task WaitAll", "Listing 1-14 Using Task WaitAll\Listing 1-14 Using Task WaitAll.csproj", "{04399CBB-648A-4C05-86A3-AFC9656BF158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C48980-3378-470A-83D3-4749DA4ECB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04399CBB-648A-4C05-86A3-AFC9656BF158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04399CBB-648A-4C05-86A3-AFC9656BF158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04399CBB-648A-4C05-86A3-AFC9656BF158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04399CBB-648A-4C05-86A3-AFC9656BF158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
