@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-16 Using Parallel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-17 Using Parallel Break", "Listing 1-17 Using Parallel Break\Listing 1-17 Using Parallel Break.csproj", "{1B93DF72-75A1-4BC7-BDD0-D47CC1186739}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-18 Async and Await", "Listing 1-18 Async and Await\Listing 1-18 Async and Await.csproj", "{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1B93DF72-75A1-4BC7-BDD0-D47CC1186739}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B93DF72-75A1-4BC7-BDD0-D47CC1186739}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B93DF72-75A1-4BC7-BDD0-D47CC1186739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
