@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-17 Using Parallel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-18 Async and Await", "Listing 1-18 Async and Await\Listing 1-18 Async and Await.csproj", "{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-19 Scalability versus responsiveness", "Listing 1-19 Scalability versus responsiveness\Listing 1-19 Scalability versus responsiveness.csproj", "{238C267A-E4E2-4642-83B9-07362EE0C413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238C267A-E4E2-4642-83B9-07362EE0C413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238C267A-E4E2-4642-83B9-07362EE0C413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238C267A-E4E2-4642-83B9-07362EE0C413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238C267A-E4E2-4642-83B9-07362EE0C413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
