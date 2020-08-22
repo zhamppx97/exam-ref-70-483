@@ -35,11 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-15 Using Task Wai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-16 Using Parallel For and Parallel Foreach", "Listing 1-16 Using Parallel For and Parallel Foreach\Listing 1-16 Using Parallel For and Parallel Foreach.csproj", "{AAD19DEA-AFA3-4F6B-8B0E-8C5A0FC84CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-17 Using Parallel Break", "Listing 1-17 Using Parallel Break\Listing 1-17 Using Parallel Break.csproj", "{1B93DF72-75A1-4BC7-BDD0-D47CC1186739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-17 Using Parallel Break", "Listing 1-17 Using Parallel Break\Listing 1-17 Using Parallel Break.csproj", "{1B93DF72-75A1-4BC7-BDD0-D47CC1186739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-18 Async and Await", "Listing 1-18 Async and Await\Listing 1-18 Async and Await.csproj", "{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-18 Async and Await", "Listing 1-18 Async and Await\Listing 1-18 Async and Await.csproj", "{D8E17AD7-C28B-4BC9-8F84-5E5B8D5C0A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-19 Scalability versus responsiveness", "Listing 1-19 Scalability versus responsiveness\Listing 1-19 Scalability versus responsiveness.csproj", "{238C267A-E4E2-4642-83B9-07362EE0C413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-19 Scalability versus responsiveness", "Listing 1-19 Scalability versus responsiveness\Listing 1-19 Scalability versus responsiveness.csproj", "{238C267A-E4E2-4642-83B9-07362EE0C413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-20 Using Configure Await", "Listing 1-20 Using Configure Await\Listing 1-20 Using Configure Await.csproj", "{33922B84-616F-4581-8995-3E1D2D4E660F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{238C267A-E4E2-4642-83B9-07362EE0C413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238C267A-E4E2-4642-83B9-07362EE0C413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238C267A-E4E2-4642-83B9-07362EE0C413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33922B84-616F-4581-8995-3E1D2D4E660F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33922B84-616F-4581-8995-3E1D2D4E660F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33922B84-616F-4581-8995-3E1D2D4E660F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33922B84-616F-4581-8995-3E1D2D4E660F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
