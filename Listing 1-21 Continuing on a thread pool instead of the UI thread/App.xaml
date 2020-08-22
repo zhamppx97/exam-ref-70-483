@@ -1,0 +1,9 @@
+﻿<Application x:Class="Listing_1_21_Continuing_on_a_thread_pool_instead_of_the_UI_thread.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Listing_1_21_Continuing_on_a_thread_pool_instead_of_the_UI_thread"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
