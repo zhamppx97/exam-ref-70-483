@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-20 Using Configur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-21 Continuing on a thread pool instead of the UI thread", "Listing 1-21 Continuing on a thread pool instead of the UI thread\Listing 1-21 Continuing on a thread pool instead of the UI thread.csproj", "{EC2F62BF-A76A-4CB2-85BA-9E738BE06C20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-22 Using As Parallel", "Listing 1-22 Using As Parallel\Listing 1-22 Using As Parallel.csproj", "{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{EC2F62BF-A76A-4CB2-85BA-9E738BE06C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC2F62BF-A76A-4CB2-85BA-9E738BE06C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC2F62BF-A76A-4CB2-85BA-9E738BE06C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
