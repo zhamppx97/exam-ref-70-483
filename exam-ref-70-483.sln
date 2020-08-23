@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-23 Unordered para
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-24 Ordered parallel query", "Listing 1-24 Ordered parallel query\Listing 1-24 Ordered parallel query.csproj", "{84575626-7024-4246-9CE2-A02CDBFA4660}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-25 Making a parallel query sequential", "Listing 1-25 Making a parallel query sequential\Listing 1-25 Making a parallel query sequential.csproj", "{1E94CF65-21B9-4A95-860E-2A8B32EF0962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{84575626-7024-4246-9CE2-A02CDBFA4660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84575626-7024-4246-9CE2-A02CDBFA4660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84575626-7024-4246-9CE2-A02CDBFA4660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
