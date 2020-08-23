@@ -41,11 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-18 Async and Awai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-19 Scalability versus responsiveness", "Listing 1-19 Scalability versus responsiveness\Listing 1-19 Scalability versus responsiveness.csproj", "{238C267A-E4E2-4642-83B9-07362EE0C413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-20 Using Configure Await", "Listing 1-20 Using Configure Await\Listing 1-20 Using Configure Await.csproj", "{33922B84-616F-4581-8995-3E1D2D4E660F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-20 Using Configure Await", "Listing 1-20 Using Configure Await\Listing 1-20 Using Configure Await.csproj", "{33922B84-616F-4581-8995-3E1D2D4E660F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-21 Continuing on a thread pool instead of the UI thread", "Listing 1-21 Continuing on a thread pool instead of the UI thread\Listing 1-21 Continuing on a thread pool instead of the UI thread.csproj", "{EC2F62BF-A76A-4CB2-85BA-9E738BE06C20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-21 Continuing on a thread pool instead of the UI thread", "Listing 1-21 Continuing on a thread pool instead of the UI thread\Listing 1-21 Continuing on a thread pool instead of the UI thread.csproj", "{EC2F62BF-A76A-4CB2-85BA-9E738BE06C20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-22 Using As Parallel", "Listing 1-22 Using As Parallel\Listing 1-22 Using As Parallel.csproj", "{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-22 Using As Parallel", "Listing 1-22 Using As Parallel\Listing 1-22 Using As Parallel.csproj", "{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-23 Unordered parallel query", "Listing 1-23 Unordered parallel query\Listing 1-23 Unordered parallel query.csproj", "{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
