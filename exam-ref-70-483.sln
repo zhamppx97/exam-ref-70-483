@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-25 Making a paral
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-26 Using For All", "Listing 1-26 Using For All\Listing 1-26 Using For All.csproj", "{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-27 Catching Aggregate Exception", "Listing 1-27 Catching Aggregate Exception\Listing 1-27 Catching Aggregate Exception.csproj", "{321C9854-5CA9-4507-895E-C7DABB5470F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321C9854-5CA9-4507-895E-C7DABB5470F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321C9854-5CA9-4507-895E-C7DABB5470F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321C9854-5CA9-4507-895E-C7DABB5470F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321C9854-5CA9-4507-895E-C7DABB5470F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
