@@ -47,11 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-21 Continuing on 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-22 Using As Parallel", "Listing 1-22 Using As Parallel\Listing 1-22 Using As Parallel.csproj", "{5C9B686E-DEEA-4871-B127-9E9FF204FB1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-23 Unordered parallel query", "Listing 1-23 Unordered parallel query\Listing 1-23 Unordered parallel query.csproj", "{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-23 Unordered parallel query", "Listing 1-23 Unordered parallel query\Listing 1-23 Unordered parallel query.csproj", "{EC09E39D-BC75-4566-8DD2-A1FE34BD299A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-24 Ordered parallel query", "Listing 1-24 Ordered parallel query\Listing 1-24 Ordered parallel query.csproj", "{84575626-7024-4246-9CE2-A02CDBFA4660}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-24 Ordered parallel query", "Listing 1-24 Ordered parallel query\Listing 1-24 Ordered parallel query.csproj", "{84575626-7024-4246-9CE2-A02CDBFA4660}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-25 Making a parallel query sequential", "Listing 1-25 Making a parallel query sequential\Listing 1-25 Making a parallel query sequential.csproj", "{1E94CF65-21B9-4A95-860E-2A8B32EF0962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-25 Making a parallel query sequential", "Listing 1-25 Making a parallel query sequential\Listing 1-25 Making a parallel query sequential.csproj", "{1E94CF65-21B9-4A95-860E-2A8B32EF0962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-26 Using For All", "Listing 1-26 Using For All\Listing 1-26 Using For All.csproj", "{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E94CF65-21B9-4A95-860E-2A8B32EF0962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B8BAC0-9DE2-454A-8697-AA15E507AA0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
