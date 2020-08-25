@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_1_29_Using_Get_Consuming_Enumerable_on_a_Blocking_Collection</RootNamespace>
+  </PropertyGroup>
+
+</Project>
