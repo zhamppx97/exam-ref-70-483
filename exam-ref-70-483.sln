@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-28 Using Blocking
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection", "Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection\Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection.csproj", "{F4F7ED9F-5A39-44ED-B293-473AE6AC064F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-30 Using a Concurrent Bag", "Listing 1-30 Using a Concurrent Bag\Listing 1-30 Using a Concurrent Bag.csproj", "{A994563D-755A-420C-A68A-F1B36A800BAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{F4F7ED9F-5A39-44ED-B293-473AE6AC064F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4F7ED9F-5A39-44ED-B293-473AE6AC064F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4F7ED9F-5A39-44ED-B293-473AE6AC064F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A994563D-755A-420C-A68A-F1B36A800BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A994563D-755A-420C-A68A-F1B36A800BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A994563D-755A-420C-A68A-F1B36A800BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A994563D-755A-420C-A68A-F1B36A800BAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
