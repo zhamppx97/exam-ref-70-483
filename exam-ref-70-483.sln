@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-31 Enumerating a 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-32 Using a Concurrent Stack", "Listing 1-32 Using a Concurrent Stack\Listing 1-32 Using a Concurrent Stack.csproj", "{F21E8FC8-EBCD-498D-91A7-80B1D90199EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-33 Using a Concurrent Queue", "Listing 1-33 Using a Concurrent Queue\Listing 1-33 Using a Concurrent Queue.csproj", "{84806B19-8318-4AEB-B772-D86AA63C9352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{F21E8FC8-EBCD-498D-91A7-80B1D90199EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F21E8FC8-EBCD-498D-91A7-80B1D90199EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F21E8FC8-EBCD-498D-91A7-80B1D90199EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84806B19-8318-4AEB-B772-D86AA63C9352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84806B19-8318-4AEB-B772-D86AA63C9352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84806B19-8318-4AEB-B772-D86AA63C9352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84806B19-8318-4AEB-B772-D86AA63C9352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
