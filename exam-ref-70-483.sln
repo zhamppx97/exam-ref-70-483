@@ -57,11 +57,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-26 Using For All"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-27 Catching Aggregate Exception", "Listing 1-27 Catching Aggregate Exception\Listing 1-27 Catching Aggregate Exception.csproj", "{321C9854-5CA9-4507-895E-C7DABB5470F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-28 Using Blocking Collection T", "Listing 1-28 Using Blocking Collection T\Listing 1-28 Using Blocking Collection T.csproj", "{4710F453-EFBD-4AD4-B1A6-6B760542F330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-28 Using Blocking Collection T", "Listing 1-28 Using Blocking Collection T\Listing 1-28 Using Blocking Collection T.csproj", "{4710F453-EFBD-4AD4-B1A6-6B760542F330}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection", "Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection\Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection.csproj", "{F4F7ED9F-5A39-44ED-B293-473AE6AC064F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection", "Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection\Listing 1-29 Using Get Consuming Enumerable on a Blocking Collection.csproj", "{F4F7ED9F-5A39-44ED-B293-473AE6AC064F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-30 Using a Concurrent Bag", "Listing 1-30 Using a Concurrent Bag\Listing 1-30 Using a Concurrent Bag.csproj", "{A994563D-755A-420C-A68A-F1B36A800BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-30 Using a Concurrent Bag", "Listing 1-30 Using a Concurrent Bag\Listing 1-30 Using a Concurrent Bag.csproj", "{A994563D-755A-420C-A68A-F1B36A800BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-31 Enumerating a Concurrent Bag", "Listing 1-31 Enumerating a Concurrent Bag\Listing 1-31 Enumerating a Concurrent Bag.csproj", "{565C3DCF-73F2-451E-89C0-2F909A232F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{A994563D-755A-420C-A68A-F1B36A800BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A994563D-755A-420C-A68A-F1B36A800BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A994563D-755A-420C-A68A-F1B36A800BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565C3DCF-73F2-451E-89C0-2F909A232F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565C3DCF-73F2-451E-89C0-2F909A232F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565C3DCF-73F2-451E-89C0-2F909A232F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565C3DCF-73F2-451E-89C0-2F909A232F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
