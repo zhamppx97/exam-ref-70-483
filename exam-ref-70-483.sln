@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-35 Accessing shar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-36 Using the lock keyword", "Listing 1-36 Using the lock keyword\Listing 1-36 Using the lock keyword.csproj", "{BC5367AD-2D5D-4782-B94F-7152AAA266F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-37 Creating a deadlock", "Listing 1-37 Creating a deadlock\Listing 1-37 Creating a deadlock.csproj", "{04E0D940-BC06-44FE-87DA-7A68A31B49F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E0D940-BC06-44FE-87DA-7A68A31B49F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E0D940-BC06-44FE-87DA-7A68A31B49F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E0D940-BC06-44FE-87DA-7A68A31B49F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E0D940-BC06-44FE-87DA-7A68A31B49F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
