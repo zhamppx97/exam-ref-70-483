@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-34 Using a Concur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-35 Accessing shared data in a multithreaded application", "Listing 1-35 Accessing shared data in a multithreaded application\Listing 1-35 Accessing shared data in a multithreaded application.csproj", "{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-36 Using the lock keyword", "Listing 1-36 Using the lock keyword\Listing 1-36 Using the lock keyword.csproj", "{BC5367AD-2D5D-4782-B94F-7152AAA266F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5367AD-2D5D-4782-B94F-7152AAA266F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
