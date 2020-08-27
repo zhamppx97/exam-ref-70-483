@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_1_35_Accessing_shared_data_in_a_multithreaded_application</RootNamespace>
+  </PropertyGroup>
+
+</Project>

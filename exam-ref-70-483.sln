@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-33 Using a Concur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-34 Using a Concurrent Dictionnary", "Listing 1-34 Using a Concurrent Dictionnary\Listing 1-34 Using a Concurrent Dictionnary.csproj", "{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-35 Accessing shared data in a multithreaded application", "Listing 1-35 Accessing shared data in a multithreaded application\Listing 1-35 Accessing shared data in a multithreaded application.csproj", "{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428B34FE-6F2A-4E65-982A-C2E46AE33CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
