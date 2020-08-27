@@ -63,11 +63,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-29 Using Get Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-30 Using a Concurrent Bag", "Listing 1-30 Using a Concurrent Bag\Listing 1-30 Using a Concurrent Bag.csproj", "{A994563D-755A-420C-A68A-F1B36A800BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-31 Enumerating a Concurrent Bag", "Listing 1-31 Enumerating a Concurrent Bag\Listing 1-31 Enumerating a Concurrent Bag.csproj", "{565C3DCF-73F2-451E-89C0-2F909A232F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-31 Enumerating a Concurrent Bag", "Listing 1-31 Enumerating a Concurrent Bag\Listing 1-31 Enumerating a Concurrent Bag.csproj", "{565C3DCF-73F2-451E-89C0-2F909A232F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-32 Using a Concurrent Stack", "Listing 1-32 Using a Concurrent Stack\Listing 1-32 Using a Concurrent Stack.csproj", "{F21E8FC8-EBCD-498D-91A7-80B1D90199EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-32 Using a Concurrent Stack", "Listing 1-32 Using a Concurrent Stack\Listing 1-32 Using a Concurrent Stack.csproj", "{F21E8FC8-EBCD-498D-91A7-80B1D90199EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-33 Using a Concurrent Queue", "Listing 1-33 Using a Concurrent Queue\Listing 1-33 Using a Concurrent Queue.csproj", "{84806B19-8318-4AEB-B772-D86AA63C9352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-33 Using a Concurrent Queue", "Listing 1-33 Using a Concurrent Queue\Listing 1-33 Using a Concurrent Queue.csproj", "{84806B19-8318-4AEB-B772-D86AA63C9352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-34 Using a Concurrent Dictionnary", "Listing 1-34 Using a Concurrent Dictionnary\Listing 1-34 Using a Concurrent Dictionnary.csproj", "{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{84806B19-8318-4AEB-B772-D86AA63C9352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84806B19-8318-4AEB-B772-D86AA63C9352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84806B19-8318-4AEB-B772-D86AA63C9352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1239C1F5-75DD-4D6E-BB29-AE13AB8569EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
