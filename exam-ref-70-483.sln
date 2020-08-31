@@ -77,9 +77,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-36 Using the lock
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-37 Creating a deadlock", "Listing 1-37 Creating a deadlock\Listing 1-37 Creating a deadlock.csproj", "{04E0D940-BC06-44FE-87DA-7A68A31B49F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-38 Generate code from a lock statement", "Listing 1-38 Generate code from a lock statement\Listing 1-38 Generate code from a lock statement.csproj", "{A9E9C1B6-4A29-4D9A-ACA0-C667EC57DE79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-38 Generate code from a lock statement", "Listing 1-38 Generate code from a lock statement\Listing 1-38 Generate code from a lock statement.csproj", "{A9E9C1B6-4A29-4D9A-ACA0-C667EC57DE79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-39 A potential problem with multithreaded code", "Listing 1-39 A potential problem with multithreaded code\Listing 1-39 A potential problem with multithreaded code.csproj", "{7459843D-F9F7-4FEE-9FFE-1292AD497261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-39 A potential problem with multithreaded code", "Listing 1-39 A potential problem with multithreaded code\Listing 1-39 A potential problem with multithreaded code.csproj", "{7459843D-F9F7-4FEE-9FFE-1292AD497261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-40 Using the Interlocked class", "Listing 1-40 Using the Interlocked class\Listing 1-40 Using the Interlocked class.csproj", "{556E0068-0D2B-489C-B5B9-D0D96AA512B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{7459843D-F9F7-4FEE-9FFE-1292AD497261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7459843D-F9F7-4FEE-9FFE-1292AD497261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7459843D-F9F7-4FEE-9FFE-1292AD497261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556E0068-0D2B-489C-B5B9-D0D96AA512B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556E0068-0D2B-489C-B5B9-D0D96AA512B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556E0068-0D2B-489C-B5B9-D0D96AA512B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556E0068-0D2B-489C-B5B9-D0D96AA512B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
