@@ -87,6 +87,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-41 Compare and ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-42 Using a Cancellation Token", "Listing 1-42 Using a Cancellation Token\Listing 1-42 Using a Cancellation Token.csproj", "{78EC4565-1B71-4B4A-8088-0B08F9E3A6F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-43 Throwing Operation Canceled Exception", "Listing 1-43 Throwing Operation Canceled Exception\Listing 1-43 Throwing Operation Canceled Exception.csproj", "{A34F07B6-6C86-48A4-9273-44ACA928BF0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{78EC4565-1B71-4B4A-8088-0B08F9E3A6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78EC4565-1B71-4B4A-8088-0B08F9E3A6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78EC4565-1B71-4B4A-8088-0B08F9E3A6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34F07B6-6C86-48A4-9273-44ACA928BF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34F07B6-6C86-48A4-9273-44ACA928BF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34F07B6-6C86-48A4-9273-44ACA928BF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34F07B6-6C86-48A4-9273-44ACA928BF0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
