@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-43 Throwing Opera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-44 Adding a continuation for canceled tasks", "Listing 1-44 Adding a continuation for canceled tasks\Listing 1-44 Adding a continuation for canceled tasks.csproj", "{3AE963CF-274B-4C81-AA6E-2E3C69AF0652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-45 Setting a timeout on a task", "Listing 1-45 Setting a timeout on a task\Listing 1-45 Setting a timeout on a task.csproj", "{5EB8A338-928B-421F-98CF-3780FE1C8EFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{3AE963CF-274B-4C81-AA6E-2E3C69AF0652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE963CF-274B-4C81-AA6E-2E3C69AF0652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE963CF-274B-4C81-AA6E-2E3C69AF0652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB8A338-928B-421F-98CF-3780FE1C8EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB8A338-928B-421F-98CF-3780FE1C8EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB8A338-928B-421F-98CF-3780FE1C8EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB8A338-928B-421F-98CF-3780FE1C8EFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
