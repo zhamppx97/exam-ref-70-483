@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-49 Using the AND 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-50 Short-circuiting the AND operator", "Listing 1-50 Short-circuiting the AND operator\Listing 1-50 Short-circuiting the AND operator.csproj", "{AAE8C7A7-9959-4E09-A11B-56B54AC57A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-51 Using the XOR operator", "Listing 1-51 Using the XOR operator\Listing 1-51 Using the XOR operator.csproj", "{D7148FEC-4183-495D-A394-934100669E71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{AAE8C7A7-9959-4E09-A11B-56B54AC57A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAE8C7A7-9959-4E09-A11B-56B54AC57A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAE8C7A7-9959-4E09-A11B-56B54AC57A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7148FEC-4183-495D-A394-934100669E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7148FEC-4183-495D-A394-934100669E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7148FEC-4183-495D-A394-934100669E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7148FEC-4183-495D-A394-934100669E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
