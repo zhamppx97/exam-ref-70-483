@@ -107,6 +107,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-51 Using the XOR 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-52 Basic if statement", "Listing 1-52 Basic if statement\Listing 1-52 Basic if statement.csproj", "{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-53 An if statement with code block", "Listing 1-53 An if statement with code block\Listing 1-53 An if statement with code block.csproj", "{CFE93D70-C905-4132-AC67-C5B6E277E325}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE93D70-C905-4132-AC67-C5B6E277E325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE93D70-C905-4132-AC67-C5B6E277E325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE93D70-C905-4132-AC67-C5B6E277E325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE93D70-C905-4132-AC67-C5B6E277E325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
