@@ -99,11 +99,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-47 Boolean OR ope
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-48 Short-circuiting the OR operator", "Listing 1-48 Short-circuiting the OR operator\Listing 1-48 Short-circuiting the OR operator.csproj", "{BB5C2E16-61B3-4B09-9245-F35BB5BC0C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-49 Using the AND operator", "Listing 1-49 Using the AND operator\Listing 1-49 Using the AND operator.csproj", "{0043B245-9500-4EE5-91D4-AC2EC7CCB988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-49 Using the AND operator", "Listing 1-49 Using the AND operator\Listing 1-49 Using the AND operator.csproj", "{0043B245-9500-4EE5-91D4-AC2EC7CCB988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-50 Short-circuiting the AND operator", "Listing 1-50 Short-circuiting the AND operator\Listing 1-50 Short-circuiting the AND operator.csproj", "{AAE8C7A7-9959-4E09-A11B-56B54AC57A12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-50 Short-circuiting the AND operator", "Listing 1-50 Short-circuiting the AND operator\Listing 1-50 Short-circuiting the AND operator.csproj", "{AAE8C7A7-9959-4E09-A11B-56B54AC57A12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-51 Using the XOR operator", "Listing 1-51 Using the XOR operator\Listing 1-51 Using the XOR operator.csproj", "{D7148FEC-4183-495D-A394-934100669E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-51 Using the XOR operator", "Listing 1-51 Using the XOR operator\Listing 1-51 Using the XOR operator.csproj", "{D7148FEC-4183-495D-A394-934100669E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-52 Basic if statement", "Listing 1-52 Basic if statement\Listing 1-52 Basic if statement.csproj", "{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +317,10 @@ Global
 		{D7148FEC-4183-495D-A394-934100669E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7148FEC-4183-495D-A394-934100669E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7148FEC-4183-495D-A394-934100669E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0C5BD7-2A8C-412D-A8FE-4654CF5E1614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
