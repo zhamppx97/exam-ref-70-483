@@ -109,9 +109,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-52 Basic if state
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-53 An if statement with code block", "Listing 1-53 An if statement with code block\Listing 1-53 An if statement with code block.csproj", "{CFE93D70-C905-4132-AC67-C5B6E277E325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-54 Code blocks and scoping", "Listing 1-54 Code blocks and scoping\Listing 1-54 Code blocks and scoping.csproj", "{CF3C4D31-E81F-470D-827C-D7B3584D413A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-54 Code blocks and scoping", "Listing 1-54 Code blocks and scoping\Listing 1-54 Code blocks and scoping.csproj", "{CF3C4D31-E81F-470D-827C-D7B3584D413A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-55 Using an else statement", "Listing 1-55\Listing 1-55 Using an else statement.csproj", "{4E280F05-FCE6-4DF9-846A-714BEC0DFCE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-55 Using an else statement", "Listing 1-55\Listing 1-55 Using an else statement.csproj", "{4E280F05-FCE6-4DF9-846A-714BEC0DFCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-56 Using multiple if else statements", "Listing 1-56 Using multiple if else statements\Listing 1-56 Using multiple if else statements.csproj", "{95BAF775-BE4F-48C6-83DE-F8903F7FCFF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -339,6 +341,10 @@ Global
 		{4E280F05-FCE6-4DF9-846A-714BEC0DFCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E280F05-FCE6-4DF9-846A-714BEC0DFCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E280F05-FCE6-4DF9-846A-714BEC0DFCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BAF775-BE4F-48C6-83DE-F8903F7FCFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BAF775-BE4F-48C6-83DE-F8903F7FCFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BAF775-BE4F-48C6-83DE-F8903F7FCFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BAF775-BE4F-48C6-83DE-F8903F7FCFF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
