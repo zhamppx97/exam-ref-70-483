@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-58 The null coale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-59 Nesting the null coalescing operator", "Listing 1-59 Nesting the null coalescing operator\Listing 1-59 Nesting the null coalescing operator.csproj", "{DD199824-3A3E-4C17-B0FD-AC64C4FB6001}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-60 The conditional operator", "Listing 1-60 The conditional operator\Listing 1-60 The conditional operator.csproj", "{9B861B8C-2F95-492E-928F-14388CCE4F4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{DD199824-3A3E-4C17-B0FD-AC64C4FB6001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD199824-3A3E-4C17-B0FD-AC64C4FB6001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD199824-3A3E-4C17-B0FD-AC64C4FB6001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B861B8C-2F95-492E-928F-14388CCE4F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B861B8C-2F95-492E-928F-14388CCE4F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B861B8C-2F95-492E-928F-14388CCE4F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B861B8C-2F95-492E-928F-14388CCE4F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
