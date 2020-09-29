@@ -125,6 +125,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-60 The conditiona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-61 A complex if statement", "Listing 1-61 A complex if statement\Listing 1-61 A complex if statement.csproj", "{83A5FBF8-3DB4-42BD-9621-D2B260177036}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-62 A switch statement", "Listing 1-62 A switch statement\Listing 1-62 A switch statement.csproj", "{64F6CC76-345C-4062-8F72-05299FA08011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{83A5FBF8-3DB4-42BD-9621-D2B260177036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A5FBF8-3DB4-42BD-9621-D2B260177036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A5FBF8-3DB4-42BD-9621-D2B260177036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F6CC76-345C-4062-8F72-05299FA08011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F6CC76-345C-4062-8F72-05299FA08011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F6CC76-345C-4062-8F72-05299FA08011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F6CC76-345C-4062-8F72-05299FA08011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
