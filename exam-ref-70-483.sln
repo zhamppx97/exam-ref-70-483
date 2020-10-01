@@ -127,9 +127,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-61 A complex if s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-62 A switch statement", "Listing 1-62 A switch statement\Listing 1-62 A switch statement.csproj", "{64F6CC76-345C-4062-8F72-05299FA08011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-63 goto in a switch statement", "Listing 1-63 goto in a switch statement\Listing 1-63 goto in a switch statement.csproj", "{F3149478-E608-427A-BD94-B9A6EA143946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-63 goto in a switch statement", "Listing 1-63 goto in a switch statement\Listing 1-63 goto in a switch statement.csproj", "{F3149478-E608-427A-BD94-B9A6EA143946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-64 A basic for loop", "Listing 1-64 A basic for loop\Listing 1-64 A basic for loop.csproj", "{67DEE051-06CC-4F01-B825-014A1FDA5EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-64 A basic for loop", "Listing 1-64 A basic for loop\Listing 1-64 A basic for loop.csproj", "{67DEE051-06CC-4F01-B825-014A1FDA5EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-65 A for loop with multiple loop variables", "Listing 1-65 A for loop with multiple loop variables\Listing 1-65 A for loop with multiple loop variables.csproj", "{7EEDA4FD-9211-4992-AF18-846EA814B7F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{67DEE051-06CC-4F01-B825-014A1FDA5EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67DEE051-06CC-4F01-B825-014A1FDA5EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67DEE051-06CC-4F01-B825-014A1FDA5EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
