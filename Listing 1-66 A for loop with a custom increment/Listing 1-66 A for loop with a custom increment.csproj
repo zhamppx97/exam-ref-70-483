@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_1_66_A_for_loop_with_a_custom_increment</RootNamespace>
+  </PropertyGroup>
+
+</Project>

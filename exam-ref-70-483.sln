@@ -133,6 +133,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-64 A basic for lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-65 A for loop with multiple loop variables", "Listing 1-65 A for loop with multiple loop variables\Listing 1-65 A for loop with multiple loop variables.csproj", "{7EEDA4FD-9211-4992-AF18-846EA814B7F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-66 A for loop with a custom increment", "Listing 1-66 A for loop with a custom increment\Listing 1-66 A for loop with a custom increment.csproj", "{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EEDA4FD-9211-4992-AF18-846EA814B7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
