@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-65 A for loop wit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-66 A for loop with a custom increment", "Listing 1-66 A for loop with a custom increment\Listing 1-66 A for loop with a custom increment.csproj", "{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-67 A for loop with a break statement", "Listing 1-67 A for loop with a break statement\Listing 1-67 A for loop with a break statement.csproj", "{789EB35A-9447-450F-910F-F443C7F763E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF42CCD7-B384-4B61-9C34-BCE78A39B8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789EB35A-9447-450F-910F-F443C7F763E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789EB35A-9447-450F-910F-F443C7F763E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789EB35A-9447-450F-910F-F443C7F763E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789EB35A-9447-450F-910F-F443C7F763E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
