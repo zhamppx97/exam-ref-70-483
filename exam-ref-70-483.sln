@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-73 The compiler g
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-74 goto statement with a label", "Listing 1-74 goto statement with a label\Listing 1-74 goto statement with a label.csproj", "{D534D309-90B0-4EC4-9B19-5A555A5C2644}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-75 Using a delegate", "Listing 1-75 Using a delegate\Listing 1-75 Using a delegate.csproj", "{36522B0A-4336-447C-9179-8B44A8F77DBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +455,10 @@ Global
 		{D534D309-90B0-4EC4-9B19-5A555A5C2644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D534D309-90B0-4EC4-9B19-5A555A5C2644}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D534D309-90B0-4EC4-9B19-5A555A5C2644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36522B0A-4336-447C-9179-8B44A8F77DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36522B0A-4336-447C-9179-8B44A8F77DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36522B0A-4336-447C-9179-8B44A8F77DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36522B0A-4336-447C-9179-8B44A8F77DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
