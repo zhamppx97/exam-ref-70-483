@@ -147,6 +147,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-71 foreach loop",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-72 Changing items in a foreach", "Listing 1-72 Changing items in a foreach\Listing 1-72 Changing items in a foreach.csproj", "{F6F05559-2446-4923-A0EA-410C4B740552}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-73 The compiler generated code for a foreach loop", "Listing 1-73 The compiler generated code for a foreach loop\Listing 1-73 The compiler generated code for a foreach loop.csproj", "{C99A7E6E-764F-48D5-896C-DB253DB0E5DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{F6F05559-2446-4923-A0EA-410C4B740552}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F05559-2446-4923-A0EA-410C4B740552}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F05559-2446-4923-A0EA-410C4B740552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99A7E6E-764F-48D5-896C-DB253DB0E5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99A7E6E-764F-48D5-896C-DB253DB0E5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99A7E6E-764F-48D5-896C-DB253DB0E5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99A7E6E-764F-48D5-896C-DB253DB0E5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
