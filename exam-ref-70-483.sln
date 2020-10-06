@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-78 Contravariance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-79 Lambda expression to create a delegate", "Listing 1-79 Lambda expression to create a delegate\Listing 1-79 Lambda expression to create a delegate.csproj", "{E01A5294-C0A5-41B6-A298-30662C32FCEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-80 Creating a lambda expression with multiple statements", "Listing 1-80 Creating a lambda expression with multiple statements\Listing 1-80 Creating a lambda expression with multiple statements.csproj", "{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{E01A5294-C0A5-41B6-A298-30662C32FCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E01A5294-C0A5-41B6-A298-30662C32FCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E01A5294-C0A5-41B6-A298-30662C32FCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

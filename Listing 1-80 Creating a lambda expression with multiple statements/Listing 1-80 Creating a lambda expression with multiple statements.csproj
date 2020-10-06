@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_1_80_Creating_a_lambda_expression_with_multiple_statements</RootNamespace>
+  </PropertyGroup>
+
+</Project>
