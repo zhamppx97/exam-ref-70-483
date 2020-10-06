@@ -155,6 +155,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-75 Using a delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-76 A multicast delegate", "Listing 1-76 A multicast delegate\Listing 1-76 A multicast delegate.csproj", "{F9975744-37E0-4D98-BE61-B5EFB50C7261}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-77 Covariance with delegates", "Listing 1-77 Covariance with delegates\Listing 1-77 Covariance with delegates.csproj", "{08453533-FAD7-4BA2-A68C-31BED292B52D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{F9975744-37E0-4D98-BE61-B5EFB50C7261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9975744-37E0-4D98-BE61-B5EFB50C7261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9975744-37E0-4D98-BE61-B5EFB50C7261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08453533-FAD7-4BA2-A68C-31BED292B52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08453533-FAD7-4BA2-A68C-31BED292B52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08453533-FAD7-4BA2-A68C-31BED292B52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08453533-FAD7-4BA2-A68C-31BED292B52D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
