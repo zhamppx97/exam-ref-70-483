@@ -153,15 +153,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-74 goto statement
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-75 Using a delegate", "Listing 1-75 Using a delegate\Listing 1-75 Using a delegate.csproj", "{36522B0A-4336-447C-9179-8B44A8F77DBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-76 A multicast delegate", "Listing 1-76 A multicast delegate\Listing 1-76 A multicast delegate.csproj", "{F9975744-37E0-4D98-BE61-B5EFB50C7261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-76 A multicast delegate", "Listing 1-76 A multicast delegate\Listing 1-76 A multicast delegate.csproj", "{F9975744-37E0-4D98-BE61-B5EFB50C7261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-77 Covariance with delegates", "Listing 1-77 Covariance with delegates\Listing 1-77 Covariance with delegates.csproj", "{08453533-FAD7-4BA2-A68C-31BED292B52D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-77 Covariance with delegates", "Listing 1-77 Covariance with delegates\Listing 1-77 Covariance with delegates.csproj", "{08453533-FAD7-4BA2-A68C-31BED292B52D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-78 Contravariance with delegates", "Listing 1-78 Contravariance with delegates\Listing 1-78 Contravariance with delegates.csproj", "{3BA8C3AE-63C7-4FB7-966A-E2D5C38F34B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-78 Contravariance with delegates", "Listing 1-78 Contravariance with delegates\Listing 1-78 Contravariance with delegates.csproj", "{3BA8C3AE-63C7-4FB7-966A-E2D5C38F34B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-79 Lambda expression to create a delegate", "Listing 1-79 Lambda expression to create a delegate\Listing 1-79 Lambda expression to create a delegate.csproj", "{E01A5294-C0A5-41B6-A298-30662C32FCEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-79 Lambda expression to create a delegate", "Listing 1-79 Lambda expression to create a delegate\Listing 1-79 Lambda expression to create a delegate.csproj", "{E01A5294-C0A5-41B6-A298-30662C32FCEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-80 Creating a lambda expression with multiple statements", "Listing 1-80 Creating a lambda expression with multiple statements\Listing 1-80 Creating a lambda expression with multiple statements.csproj", "{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-80 Creating a lambda expression with multiple statements", "Listing 1-80 Creating a lambda expression with multiple statements\Listing 1-80 Creating a lambda expression with multiple statements.csproj", "{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-81 Using the Action delegate", "Listing 1-81 Using the Action delegate\Listing 1-81 Using the Action delegate.csproj", "{9FD23B77-7B44-4424-849B-BBAE7EE1C124}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -489,6 +491,10 @@ Global
 		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A1180ED-B94F-49B1-B62E-FFE1C122CC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD23B77-7B44-4424-849B-BBAE7EE1C124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD23B77-7B44-4424-849B-BBAE7EE1C124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD23B77-7B44-4424-849B-BBAE7EE1C124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD23B77-7B44-4424-849B-BBAE7EE1C124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
