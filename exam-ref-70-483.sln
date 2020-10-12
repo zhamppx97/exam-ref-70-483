@@ -173,6 +173,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-84 Custom event a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-85 Custom event accessor", "Listing 1-85 Custom event accessor\Listing 1-85 Custom event accessor.csproj", "{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-86 Exception when raising an event", "Listing 1-86 Exception when raising an event\Listing 1-86 Exception when raising an event.csproj", "{75BC1EB7-527C-48B0-8D43-E72B55850E13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +521,10 @@ Global
 		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
