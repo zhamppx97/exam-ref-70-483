@@ -171,6 +171,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-83 Using the even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-84 Custom event arguments", "Listing 1-84 Custom event arguments\Listing 1-84 Custom event arguments.csproj", "{5F209C46-FF08-4E22-AB35-98FA20A1113C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-85 Custom event accessor", "Listing 1-85 Custom event accessor\Listing 1-85 Custom event accessor.csproj", "{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -513,6 +515,10 @@ Global
 		{5F209C46-FF08-4E22-AB35-98FA20A1113C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F209C46-FF08-4E22-AB35-98FA20A1113C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F209C46-FF08-4E22-AB35-98FA20A1113C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
