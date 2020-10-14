@@ -181,7 +181,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-88 Parsing an inv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-89 Catching a FormatException", "Listing 1-89 Catching a FormatException\Listing 1-89 Catching a FormatException.csproj", "{AC5296E0-49D3-4FDE-B7F8-70B5E059DEF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-90 Catching different exception types", "Listing 1-90 Catching different exception types\Listing 1-90 Catching different exception types.csproj", "{EDC6DC0F-6E4A-4084-BF3B-40ACB8BCF775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-90 Catching different exception types", "Listing 1-90 Catching different exception types\Listing 1-90 Catching different exception types.csproj", "{EDC6DC0F-6E4A-4084-BF3B-40ACB8BCF775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-91 Using a finally block", "Listing 1-91 Using a finally block\Listing 1-91 Using a finally block.csproj", "{6E02000B-44D3-48BA-91D1-D43B48C7B23F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -549,6 +551,10 @@ Global
 		{EDC6DC0F-6E4A-4084-BF3B-40ACB8BCF775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC6DC0F-6E4A-4084-BF3B-40ACB8BCF775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC6DC0F-6E4A-4084-BF3B-40ACB8BCF775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E02000B-44D3-48BA-91D1-D43B48C7B23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E02000B-44D3-48BA-91D1-D43B48C7B23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E02000B-44D3-48BA-91D1-D43B48C7B23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E02000B-44D3-48BA-91D1-D43B48C7B23F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
