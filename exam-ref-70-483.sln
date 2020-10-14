@@ -169,11 +169,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-82 Using an Actio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-83 Using the event keyword", "Listing 1-83 Using the event keyword\Listing 1-83 Using the event keyword.csproj", "{14450595-C034-448B-98D2-88B753E14F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-84 Custom event arguments", "Listing 1-84 Custom event arguments\Listing 1-84 Custom event arguments.csproj", "{5F209C46-FF08-4E22-AB35-98FA20A1113C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-84 Custom event arguments", "Listing 1-84 Custom event arguments\Listing 1-84 Custom event arguments.csproj", "{5F209C46-FF08-4E22-AB35-98FA20A1113C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-85 Custom event accessor", "Listing 1-85 Custom event accessor\Listing 1-85 Custom event accessor.csproj", "{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-85 Custom event accessor", "Listing 1-85 Custom event accessor\Listing 1-85 Custom event accessor.csproj", "{6DA7CCE3-BE8D-47D6-B2F6-DB02DDB28D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-86 Exception when raising an event", "Listing 1-86 Exception when raising an event\Listing 1-86 Exception when raising an event.csproj", "{75BC1EB7-527C-48B0-8D43-E72B55850E13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-86 Exception when raising an event", "Listing 1-86 Exception when raising an event\Listing 1-86 Exception when raising an event.csproj", "{75BC1EB7-527C-48B0-8D43-E72B55850E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-87 Manually raising event with exception handling", "Listing 1-87 Manually raising event with exception handling\Listing 1-87 Manually raising event with exception handling.csproj", "{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -525,6 +527,10 @@ Global
 		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BC1EB7-527C-48B0-8D43-E72B55850E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
