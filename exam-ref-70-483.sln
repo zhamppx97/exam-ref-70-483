@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-87 Manually raisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-88 Parsing an invalid number", "Listing 1-88 Parsing an invalid number\Listing 1-88 Parsing an invalid number.csproj", "{6747C5A5-7504-49A0-8D24-9E540707F16A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-89 Catching a FormatException", "Listing 1-89 Catching a FormatException\Listing 1-89 Catching a FormatException.csproj", "{AC5296E0-49D3-4FDE-B7F8-70B5E059DEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5296E0-49D3-4FDE-B7F8-70B5E059DEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5296E0-49D3-4FDE-B7F8-70B5E059DEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5296E0-49D3-4FDE-B7F8-70B5E059DEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5296E0-49D3-4FDE-B7F8-70B5E059DEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
