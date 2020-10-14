@@ -177,6 +177,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-86 Exception when
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-87 Manually raising event with exception handling", "Listing 1-87 Manually raising event with exception handling\Listing 1-87 Manually raising event with exception handling.csproj", "{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-88 Parsing an invalid number", "Listing 1-88 Parsing an invalid number\Listing 1-88 Parsing an invalid number.csproj", "{6747C5A5-7504-49A0-8D24-9E540707F16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +533,10 @@ Global
 		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A39726B-CBCA-402C-B7BC-1F2C7FFE44EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6747C5A5-7504-49A0-8D24-9E540707F16A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
