@@ -189,6 +189,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-92 Using Environm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-93 Inspecting an exception", "Listing 1-93 Inspecting an exception\Listing 1-93 Inspecting an exception.csproj", "{E5719DEB-2F8F-409E-A18D-6A5A1F6D298D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-94 Throwing an ArgumentNullException", "Listing 1-94 Throwing an ArgumentNullException\Listing 1-94 Throwing an ArgumentNullException.csproj", "{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +569,10 @@ Global
 		{E5719DEB-2F8F-409E-A18D-6A5A1F6D298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5719DEB-2F8F-409E-A18D-6A5A1F6D298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5719DEB-2F8F-409E-A18D-6A5A1F6D298D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
