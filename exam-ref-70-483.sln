@@ -187,9 +187,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-91 Using a finall
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-92 Using Environment FailFast", "Listing 1-92 Using Environment FailFast\Listing 1-92 Using Environment FailFast.csproj", "{1DB7089D-10CE-4243-8BFA-59C29B6577AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-93 Inspecting an exception", "Listing 1-93 Inspecting an exception\Listing 1-93 Inspecting an exception.csproj", "{E5719DEB-2F8F-409E-A18D-6A5A1F6D298D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-93 Inspecting an exception", "Listing 1-93 Inspecting an exception\Listing 1-93 Inspecting an exception.csproj", "{E5719DEB-2F8F-409E-A18D-6A5A1F6D298D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-94 Throwing an ArgumentNullException", "Listing 1-94 Throwing an ArgumentNullException\Listing 1-94 Throwing an ArgumentNullException.csproj", "{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-94 Throwing an ArgumentNullException", "Listing 1-94 Throwing an ArgumentNullException\Listing 1-94 Throwing an ArgumentNullException.csproj", "{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-95 Rethrowing an exception", "Listing 1-95 Rethrowing an exception\Listing 1-95 Rethrowing an exception.csproj", "{58F5722E-4833-4983-92D2-D77EFD90D15D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -573,6 +575,10 @@ Global
 		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC59D9FD-D37A-42A4-8817-6BF58870BD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
