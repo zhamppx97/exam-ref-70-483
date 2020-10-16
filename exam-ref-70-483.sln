@@ -193,6 +193,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing 1-94 Throwing an Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-95 Rethrowing an exception", "Listing 1-95 Rethrowing an exception\Listing 1-95 Rethrowing an exception.csproj", "{58F5722E-4833-4983-92D2-D77EFD90D15D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1-96 Throwing a new exception that points to the original one", "Listing 1-96 Throwing a new exception that points to the original one\Listing 1-96 Throwing a new exception that points to the original one.csproj", "{0A35BA57-E574-4053-A4F3-7D00504340E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -579,6 +581,10 @@ Global
 		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58F5722E-4833-4983-92D2-D77EFD90D15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A35BA57-E574-4053-A4F3-7D00504340E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A35BA57-E574-4053-A4F3-7D00504340E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A35BA57-E574-4053-A4F3-7D00504340E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A35BA57-E574-4053-A4F3-7D00504340E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
